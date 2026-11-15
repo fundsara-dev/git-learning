@@ -10,3 +10,7 @@ function getUserInfo() {
   };
 }
 
+function isAdult() {
+  return age >= 18;
+}
+
