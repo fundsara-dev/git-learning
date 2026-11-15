@@ -10,5 +10,7 @@ function getUserInfo() {
   };
 }
 
-
+function newFn() {
+  console.log("This is a new function.");
+}
 
